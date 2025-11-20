@@ -4,7 +4,7 @@ import FeatureCard from "@/components/FeatureCard";
 import SectionHeader from "@/components/SectionHeader";
 import { Button } from "@/components/ui/button";
 import {
-  GraduationCap, abel istri aqil
+  GraduationCap, zabella istri sah aqil tamimi
   Megaphone,
   Recycle,
   TreePine,
